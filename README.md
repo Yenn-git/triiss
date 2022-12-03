@@ -1,0 +1,2 @@
+# triiss
+repo do ćwiczeń
